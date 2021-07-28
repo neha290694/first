@@ -1,2 +1,2 @@
 # first
-first step towards  gitbub
+first step towards  github
